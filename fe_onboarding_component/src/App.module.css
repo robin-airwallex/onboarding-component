@@ -1,0 +1,22 @@
+.bodyCtnr{
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    /* align-items: center; */
+}
+
+.startBtn {
+    margin-top: 25vh;
+    height: 5rem;
+    padding: 1rem;
+    border-radius: 0.5rem;
+    border: none;
+    background-color: black;
+    font-size: 1rem;
+    color: rgb(255, 69, 0, 0.9);
+    font-size: 2rem;
+}
+
+.startBtn:hover {
+    cursor: pointer;
+}
